@@ -65,6 +65,6 @@ pip install -r requirements.txt
 
 The following link provides the original documentation that was used as a reference for this project:
 
-- [Original Documentation](https://github.com/denisecase/620-mod6-web-scraping)
+- (https://github.com/denisecase/620-mod6-web-scraping)
 
 
